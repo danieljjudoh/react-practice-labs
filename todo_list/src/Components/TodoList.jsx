@@ -71,7 +71,7 @@ const TodoList = () => {
                 {/* Button to delete the current heading by passing its index */}
                 <button
                   className="delete-button-heading"
-                  onClick={handleDeleteTodo}
+                  onClick={() => handleDeleteTodo(index)}
                 >
                   Delete Heading{" "}
                 </button>
