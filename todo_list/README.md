@@ -1,4 +1,5 @@
 ### Component JSX
+```
 
 // ==========================================
 // 1. IMPORTS & SETUP
@@ -84,4 +85,5 @@
 
 
 // Export the component as the default export
+```
 
