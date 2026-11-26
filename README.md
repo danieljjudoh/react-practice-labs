@@ -3,4 +3,4 @@
 ### Deployed Pages
     
 #### content rating
-    h
+    https://danieljjudoh.github.io/react-practice-labs/
